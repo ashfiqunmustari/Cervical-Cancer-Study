@@ -26,4 +26,5 @@ The proposed system achieved a 97.29% classification accuracy on the SIPaKMeD da
 **Citation**
 
 If you find this work helpful, please consider citing the following:
+
 Mustari, A., Ahmed, R., Tasnim, A., Juthi, J. S., & Shahariar, G. M. (2023, December). Explainable Contrastive and Cost-Sensitive Learning for Cervical Cancer Classification. In 2023 26th International Conference on Computer and Information Technology (ICCIT) (pp. 1-6). IEEE.

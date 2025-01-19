@@ -1,6 +1,8 @@
 **Cervical Cancer Cell Classification: Research Repository**
+
 This repository contains a dataset, code, and documentation related to the research on **"Explainable AI for Medical Imaging: A Deep Learning
 Approach towards Classification of Cervical Cancer"**. The study explores our proposed methodologies, such as transfer learning, cost-effective learning, supervised contrastive learning, and explainable AI, to enhance medical imaging analysis.
+
 **Overview**
 This study focuses on building an efficient system for classifying cervical cancer cells using deep learning techniques. 
 The repository includes:
